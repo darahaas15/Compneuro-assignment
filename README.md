@@ -1,13 +1,4 @@
-# Compneuro-assignment
-
-## Group 5 members:
-Darahaas Yajamanyam 2020A7PS1386G
-Saraswati Padmawar  2020A7PS1013G
-Shubham Bohara      2020A7PS1688G
-Tanmay Bankar       2020A7PS0976G
-Vardhan Palod       2020A7PS0982G
-
-
+# Compneuro-assignment (Group 5)
 
 The 1952 Journal of Physiology article by Alan Lloyd Hodgkin and Andrew Fielding Huxley titled "A quantitative description of membrane current and its application to conduction and excitation in nerve" made a significant contribution to the discipline of neuroscience. The Hodgkin-Huxley model, a mathematical representation of how nerve impulses travel along the axon of a neuron, is developed in this publication.
 
