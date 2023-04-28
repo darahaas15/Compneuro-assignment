@@ -4,6 +4,6 @@ The figure shown consists of two plots, each representing the rate constants of 
 
 The graph allows for a comparison between the experimental values of the rate constants and the predicted values based on the mathematical equations. Such a comparison can help validate the mathematical model and provide insight into the underlying mechanisms of ion channel function.
 
-Equation for drawing curve:
+Equation for drawing curve: \
 ![image](https://user-images.githubusercontent.com/63366288/235206426-2165747c-63ba-43ff-97eb-53f603f4cff2.png)
 
